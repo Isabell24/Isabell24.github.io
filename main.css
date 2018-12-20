@@ -1,5 +1,87 @@
-html{
-    background-color: aqua;
+  html{
+      background: deepSkyBlue
+      url(/images/textures/light7a.png);
+      color: blue;
+      font: Arial, sans-serif;
+      width: 320px;
+      margin: 0 auto 0 auto;
+    }
+
+    a{
+      color: red;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color:yellow;
+      text-decoration: underline;
+    }
+
+    a:visited {
+      color: maroon;
+    }
+    
+    html{
+      background: deepSkyBlue
+      url(/images/textures/light7a.png);
+      color: blue;
+      font: Arial, sans-serif;
+      width: 320px;
+      margin: 0 auto 0 auto;
+    }
+    
+    
+    h1 {
+      font: 30px 'Black And White Picture', sans-serif,;
+      color: red;
+      margin: 0px;
+      text-shadow: 1px 1px 4px black,
+      6px 6px 6px aqua;
+    }
+    
+    
+    h3 {
+      font: 'Comic Sans MS', cursive, 28px;
+      margin: 0 0 8px 0;
+    }
+    
+    
+    p {
+      color: black;
+      text-decoration: none;
+      margin: 14px 0 10px 0;
+      text-align: justify;
+    }
+    
+     
+    img {
+      height: 150;
+      border: double red 4px;
+      margin:10px;
+      box-shadow: 0 0 0 10px maroon;
+    }
+    
+    ul {
+      list-style-type: square;
+      list-style-image:url(/images/goldStar.png);
+    } 
+      
+    header {
+      background-color: deepSkyBlue;
+      border: 10px ridge;
+      text-align: center;
+      margin: 0 -10px 0 -10px;
+    }
+    
+    footer {
+      background-color: deepSkyBlue;
+      border: 8px ridge;
+      text-align: center;
+      margin: 0 -10px 0 -10px;
+    }
+    
+    body {
+      margin:0px;
 }
 
 
