@@ -20,16 +20,7 @@
     a:visited {
       color: maroon;
     }
-    
-    html{
-      background: deepSkyBlue
-      url(/images/textures/light7a.png);
-      color: blue;
-      font: Arial, sans-serif;
-      width: 320px;
-      margin: 0 auto 0 auto;
-    }
-    
+ 
     
     h1 {
       font: 30px 'Black And White Picture', sans-serif,;
