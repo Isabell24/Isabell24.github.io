@@ -1,4 +1,4 @@
-  html{
+  html {
       background: deepSkyBlue
       url(/images/textures/light7a.png);
       color: blue;
@@ -7,7 +7,7 @@
       margin: 0 auto 0 auto;
     }
 
-    a{
+    a {
       color: red;
       text-decoration: none;
     }
