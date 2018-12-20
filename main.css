@@ -2,10 +2,15 @@
 
 html {
   background-color: darkTurquoise;
+  color: blue;
+  font: Arial, sans-serif;
+  width: 320px;
+  margin: 0 auto 0 auto;
 }
 
 h1{
      font: 30px 'Black And White Picture', sans-serif,;
 }
+
     
 </style>
