@@ -1,12 +1,11 @@
 <style>
 
 html {
-  background: darkTurquoise;
-  url(/images/textures/light7a.png);
-  color: blue;
-  font: Arial, sans-serif;
-  width: 320px;
-  margin: 0 auto 0 auto;
+  background-color: deepSkyBlue;
+}
+
+section{
+  background-color:honeydew;
 }
 
 h1{
