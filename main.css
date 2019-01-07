@@ -3,7 +3,7 @@
       color: blue;
       font: Arial, sans-serif;
       width: 320px;
-      text-align: center;
+      margin: 0 auto 0 auto;
     }
 
     a {
