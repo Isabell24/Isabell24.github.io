@@ -57,14 +57,14 @@
     } 
       
     header {
-      background-color: red;
+      background-color: blue;
       border: 10px ridge;
       text-align: center;
       margin: 0 -10px 0 -10px;
     }
     
     footer {
-      background-color: red;
+      background-color: blue;
       border: 8px ridge;
       text-align: center;
       margin: 0 -10px 0 -10px;
